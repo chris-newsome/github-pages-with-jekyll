@@ -1,1 +1,4 @@
-This is a quick draft of my blog post.
+---
+title: "TeamTreehouse Python Techdegree...is it worth it?"
+date: 2019-06-29
+---
